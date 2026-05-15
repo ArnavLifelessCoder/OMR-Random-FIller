@@ -1,0 +1,2981 @@
+[
+  {
+    "template": "1sub",
+    "file": "filled_1sub_001_random.pdf",
+    "strategy": "random",
+    "fill_percentage": 0.6450616628162441,
+    "num_filled": 37,
+    "filled_questions": {
+      "page0_q0": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          1087,
+          371,
+          10
+        ]
+      },
+      "page0_q1": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          191,
+          373,
+          10
+        ]
+      },
+      "page0_q2": {
+        "option": 3,
+        "mark_type": "tick",
+        "coordinates": [
+          844,
+          385,
+          10
+        ]
+      },
+      "page0_q3": {
+        "option": 3,
+        "mark_type": "cross",
+        "coordinates": [
+          224,
+          395,
+          9
+        ]
+      },
+      "page0_q5": {
+        "option": 0,
+        "mark_type": "empty",
+        "coordinates": [
+          95,
+          417,
+          9
+        ]
+      },
+      "page0_q7": {
+        "option": 0,
+        "mark_type": "half",
+        "coordinates": [
+          449,
+          417,
+          10
+        ]
+      },
+      "page0_q8": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          95,
+          440,
+          9
+        ]
+      },
+      "page0_q10": {
+        "option": 1,
+        "mark_type": "tick",
+        "coordinates": [
+          127,
+          463,
+          10
+        ]
+      },
+      "page0_q12": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          1010,
+          476,
+          10
+        ]
+      },
+      "page0_q14": {
+        "option": 1,
+        "mark_type": "tick",
+        "coordinates": [
+          224,
+          485,
+          10
+        ]
+      },
+      "page0_q15": {
+        "option": 2,
+        "mark_type": "tick",
+        "coordinates": [
+          385,
+          485,
+          10
+        ]
+      },
+      "page0_q17": {
+        "option": 1,
+        "mark_type": "empty",
+        "coordinates": [
+          224,
+          508,
+          10
+        ]
+      },
+      "page0_q19": {
+        "option": 0,
+        "mark_type": "cross",
+        "coordinates": [
+          95,
+          531,
+          10
+        ]
+      },
+      "page0_q20": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          321,
+          531,
+          9
+        ]
+      },
+      "page0_q21": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          385,
+          531,
+          10
+        ]
+      },
+      "page0_q23": {
+        "option": 1,
+        "mark_type": "empty",
+        "coordinates": [
+          289,
+          554,
+          10
+        ]
+      },
+      "page0_q24": {
+        "option": 3,
+        "mark_type": "dot",
+        "coordinates": [
+          224,
+          577,
+          9
+        ]
+      },
+      "page0_q26": {
+        "option": 2,
+        "mark_type": "half",
+        "coordinates": [
+          219,
+          741,
+          10
+        ]
+      },
+      "page0_q27": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          326,
+          741,
+          10
+        ]
+      },
+      "page0_q28": {
+        "option": 2,
+        "mark_type": "empty",
+        "coordinates": [
+          705,
+          741,
+          9
+        ]
+      },
+      "page0_q30": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          153,
+          765,
+          9
+        ]
+      },
+      "page0_q31": {
+        "option": 2,
+        "mark_type": "dot",
+        "coordinates": [
+          705,
+          766,
+          10
+        ]
+      },
+      "page0_q33": {
+        "option": 1,
+        "mark_type": "half",
+        "coordinates": [
+          532,
+          790,
+          9
+        ]
+      },
+      "page0_q34": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          153,
+          815,
+          9
+        ]
+      },
+      "page0_q37": {
+        "option": 0,
+        "mark_type": "empty",
+        "coordinates": [
+          812,
+          815,
+          10
+        ]
+      },
+      "page0_q38": {
+        "option": 2,
+        "mark_type": "empty",
+        "coordinates": [
+          187,
+          841,
+          10
+        ]
+      },
+      "page0_q40": {
+        "option": 1,
+        "mark_type": "half",
+        "coordinates": [
+          499,
+          841,
+          9
+        ]
+      },
+      "page0_q41": {
+        "option": 3,
+        "mark_type": "half",
+        "coordinates": [
+          812,
+          841,
+          10
+        ]
+      },
+      "page0_q42": {
+        "option": 1,
+        "mark_type": "cross",
+        "coordinates": [
+          878,
+          841,
+          9
+        ]
+      },
+      "page0_q44": {
+        "option": 1,
+        "mark_type": "half",
+        "coordinates": [
+          359,
+          866,
+          10
+        ]
+      },
+      "page0_q45": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          565,
+          866,
+          10
+        ]
+      },
+      "page0_q46": {
+        "option": 1,
+        "mark_type": "tick",
+        "coordinates": [
+          705,
+          866,
+          9
+        ]
+      },
+      "page0_q47": {
+        "option": 1,
+        "mark_type": "empty",
+        "coordinates": [
+          878,
+          866,
+          9
+        ]
+      },
+      "page0_q48": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          187,
+          891,
+          10
+        ]
+      },
+      "page0_q49": {
+        "option": 0,
+        "mark_type": "half",
+        "coordinates": [
+          359,
+          891,
+          10
+        ]
+      },
+      "page0_q51": {
+        "option": 1,
+        "mark_type": "cross",
+        "coordinates": [
+          313,
+          985,
+          8
+        ]
+      },
+      "page0_q53": {
+        "option": 1,
+        "mark_type": "concentric",
+        "coordinates": [
+          253,
+          1115,
+          8
+        ]
+      }
+    }
+  },
+  {
+    "template": "1sub",
+    "file": "filled_1sub_002_random.pdf",
+    "strategy": "random",
+    "fill_percentage": 0.6395874532934996,
+    "num_filled": 37,
+    "filled_questions": {
+      "page0_q0": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          1087,
+          371,
+          10
+        ]
+      },
+      "page0_q4": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          256,
+          395,
+          10
+        ]
+      },
+      "page0_q5": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          159,
+          417,
+          9
+        ]
+      },
+      "page0_q6": {
+        "option": 1,
+        "mark_type": "cross",
+        "coordinates": [
+          320,
+          417,
+          9
+        ]
+      },
+      "page0_q7": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          385,
+          418,
+          10
+        ]
+      },
+      "page0_q8": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          224,
+          440,
+          10
+        ]
+      },
+      "page0_q9": {
+        "option": 3,
+        "mark_type": "empty",
+        "coordinates": [
+          417,
+          440,
+          10
+        ]
+      },
+      "page0_q10": {
+        "option": 3,
+        "mark_type": "empty",
+        "coordinates": [
+          191,
+          463,
+          10
+        ]
+      },
+      "page0_q11": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          224,
+          463,
+          10
+        ]
+      },
+      "page0_q12": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          417,
+          463,
+          10
+        ]
+      },
+      "page0_q13": {
+        "option": 1,
+        "mark_type": "empty",
+        "coordinates": [
+          95,
+          485,
+          10
+        ]
+      },
+      "page0_q14": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          289,
+          485,
+          10
+        ]
+      },
+      "page0_q16": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          1087,
+          502,
+          10
+        ]
+      },
+      "page0_q18": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          449,
+          508,
+          10
+        ]
+      },
+      "page0_q19": {
+        "option": 1,
+        "mark_type": "half",
+        "coordinates": [
+          127,
+          531,
+          9
+        ]
+      },
+      "page0_q21": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          385,
+          531,
+          10
+        ]
+      },
+      "page0_q22": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          191,
+          554,
+          10
+        ]
+      },
+      "page0_q23": {
+        "option": 0,
+        "mark_type": "empty",
+        "coordinates": [
+          256,
+          554,
+          10
+        ]
+      },
+      "page0_q24": {
+        "option": 2,
+        "mark_type": "dot",
+        "coordinates": [
+          191,
+          577,
+          10
+        ]
+      },
+      "page0_q28": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          532,
+          741,
+          10
+        ]
+      },
+      "page0_q29": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          812,
+          741,
+          10
+        ]
+      },
+      "page0_q30": {
+        "option": 1,
+        "mark_type": "tick",
+        "coordinates": [
+          292,
+          766,
+          9
+        ]
+      },
+      "page0_q31": {
+        "option": 3,
+        "mark_type": "cross",
+        "coordinates": [
+          845,
+          766,
+          9
+        ]
+      },
+      "page0_q32": {
+        "option": 3,
+        "mark_type": "cross",
+        "coordinates": [
+          326,
+          790,
+          10
+        ]
+      },
+      "page0_q33": {
+        "option": 1,
+        "mark_type": "empty",
+        "coordinates": [
+          532,
+          790,
+          9
+        ]
+      },
+      "page0_q34": {
+        "option": 3,
+        "mark_type": "cross",
+        "coordinates": [
+          326,
+          815,
+          10
+        ]
+      },
+      "page0_q35": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          359,
+          815,
+          10
+        ]
+      },
+      "page0_q37": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          812,
+          815,
+          10
+        ]
+      },
+      "page0_q38": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          153,
+          841,
+          9
+        ]
+      },
+      "page0_q40": {
+        "option": 0,
+        "mark_type": "cross",
+        "coordinates": [
+          465,
+          841,
+          10
+        ]
+      },
+      "page0_q43": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          153,
+          866,
+          9
+        ]
+      },
+      "page0_q46": {
+        "option": 0,
+        "mark_type": "concentric",
+        "coordinates": [
+          671,
+          866,
+          10
+        ]
+      },
+      "page0_q47": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          911,
+          866,
+          10
+        ]
+      },
+      "page0_q48": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          153,
+          891,
+          10
+        ]
+      },
+      "page0_q50": {
+        "option": 3,
+        "mark_type": "empty",
+        "coordinates": [
+          313,
+          965,
+          17
+        ]
+      },
+      "page0_q51": {
+        "option": 3,
+        "mark_type": "tick",
+        "coordinates": [
+          673,
+          985,
+          8
+        ]
+      },
+      "page0_q53": {
+        "option": 3,
+        "mark_type": "cross",
+        "coordinates": [
+          313,
+          1115,
+          8
+        ]
+      }
+    }
+  },
+  {
+    "template": "2sub",
+    "file": "filled_2sub_001_realistic.pdf",
+    "strategy": "realistic",
+    "fill_percentage": 0.6338272906099714,
+    "num_filled": 30,
+    "filled_questions": {
+      "page0_q0": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          1010,
+          371,
+          10
+        ]
+      },
+      "page0_q1": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          256,
+          373,
+          10
+        ]
+      },
+      "page0_q3": {
+        "option": 2,
+        "mark_type": "tick",
+        "coordinates": [
+          191,
+          395,
+          9
+        ]
+      },
+      "page0_q4": {
+        "option": 0,
+        "mark_type": "concentric",
+        "coordinates": [
+          256,
+          395,
+          10
+        ]
+      },
+      "page0_q9": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          256,
+          440,
+          10
+        ]
+      },
+      "page0_q10": {
+        "option": 3,
+        "mark_type": "sloppy",
+        "coordinates": [
+          191,
+          463,
+          10
+        ]
+      },
+      "page0_q11": {
+        "option": 1,
+        "mark_type": "cross",
+        "coordinates": [
+          256,
+          463,
+          10
+        ]
+      },
+      "page0_q12": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          1010,
+          476,
+          10
+        ]
+      },
+      "page0_q14": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          191,
+          485,
+          10
+        ]
+      },
+      "page0_q16": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          971,
+          502,
+          9
+        ]
+      },
+      "page0_q17": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          224,
+          508,
+          10
+        ]
+      },
+      "page0_q18": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          352,
+          508,
+          10
+        ]
+      },
+      "page0_q20": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          256,
+          531,
+          10
+        ]
+      },
+      "page0_q21": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          449,
+          531,
+          10
+        ]
+      },
+      "page0_q23": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          449,
+          554,
+          10
+        ]
+      },
+      "page0_q24": {
+        "option": 2,
+        "mark_type": "tick",
+        "coordinates": [
+          191,
+          577,
+          10
+        ]
+      },
+      "page0_q25": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          289,
+          577,
+          10
+        ]
+      },
+      "page0_q26": {
+        "option": 2,
+        "mark_type": "dot",
+        "coordinates": [
+          782,
+          985,
+          8
+        ]
+      },
+      "page0_q27": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          627,
+          1006,
+          8
+        ]
+      },
+      "page0_q28": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          143,
+          1031,
+          8
+        ]
+      },
+      "page0_q29": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          379,
+          1031,
+          8
+        ]
+      },
+      "page0_q30": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          113,
+          1053,
+          8
+        ]
+      },
+      "page0_q31": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          892,
+          1137,
+          8
+        ]
+      },
+      "page0_q32": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          143,
+          1184,
+          8
+        ]
+      },
+      "page0_q33": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          1033,
+          1355,
+          8
+        ]
+      },
+      "page0_q35": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          1033,
+          1486,
+          8
+        ]
+      },
+      "page1_q0": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          877,
+          281,
+          8
+        ]
+      },
+      "page1_q1": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          827,
+          412,
+          8
+        ]
+      },
+      "page1_q2": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          1033,
+          412,
+          8
+        ]
+      },
+      "page1_q4": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          860,
+          652,
+          8
+        ]
+      }
+    }
+  },
+  {
+    "template": "2sub",
+    "file": "filled_2sub_002_realistic.pdf",
+    "strategy": "realistic",
+    "fill_percentage": 0.903729971240122,
+    "num_filled": 38,
+    "filled_questions": {
+      "page0_q0": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          1010,
+          371,
+          10
+        ]
+      },
+      "page0_q1": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          256,
+          373,
+          10
+        ]
+      },
+      "page0_q2": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          417,
+          373,
+          10
+        ]
+      },
+      "page0_q3": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          191,
+          395,
+          9
+        ]
+      },
+      "page0_q4": {
+        "option": 2,
+        "mark_type": "concentric",
+        "coordinates": [
+          449,
+          395,
+          10
+        ]
+      },
+      "page0_q5": {
+        "option": 0,
+        "mark_type": "cross",
+        "coordinates": [
+          95,
+          417,
+          9
+        ]
+      },
+      "page0_q7": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          682,
+          417,
+          9
+        ]
+      },
+      "page0_q8": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          224,
+          440,
+          10
+        ]
+      },
+      "page0_q9": {
+        "option": 1,
+        "mark_type": "cross",
+        "coordinates": [
+          320,
+          440,
+          9
+        ]
+      },
+      "page0_q10": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          95,
+          463,
+          10
+        ]
+      },
+      "page0_q11": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          256,
+          463,
+          10
+        ]
+      },
+      "page0_q12": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          449,
+          463,
+          10
+        ]
+      },
+      "page0_q13": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          159,
+          485,
+          10
+        ]
+      },
+      "page0_q14": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          191,
+          485,
+          10
+        ]
+      },
+      "page0_q15": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          353,
+          485,
+          9
+        ]
+      },
+      "page0_q16": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          971,
+          502,
+          9
+        ]
+      },
+      "page0_q17": {
+        "option": 2,
+        "mark_type": "concentric",
+        "coordinates": [
+          256,
+          508,
+          10
+        ]
+      },
+      "page0_q18": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          417,
+          508,
+          10
+        ]
+      },
+      "page0_q19": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          191,
+          531,
+          10
+        ]
+      },
+      "page0_q20": {
+        "option": 1,
+        "mark_type": "concentric",
+        "coordinates": [
+          287,
+          531,
+          9
+        ]
+      },
+      "page0_q21": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          385,
+          531,
+          10
+        ]
+      },
+      "page0_q22": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          191,
+          554,
+          10
+        ]
+      },
+      "page0_q23": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          256,
+          554,
+          10
+        ]
+      },
+      "page0_q24": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          95,
+          577,
+          9
+        ]
+      },
+      "page0_q25": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          320,
+          577,
+          9
+        ]
+      },
+      "page0_q26": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          797,
+          985,
+          8
+        ]
+      },
+      "page0_q27": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          657,
+          1006,
+          8
+        ]
+      },
+      "page0_q28": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          143,
+          1031,
+          8
+        ]
+      },
+      "page0_q29": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          439,
+          1031,
+          8
+        ]
+      },
+      "page0_q30": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          439,
+          1053,
+          8
+        ]
+      },
+      "page0_q31": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          1033,
+          1137,
+          8
+        ]
+      },
+      "page0_q34": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          687,
+          1465,
+          8
+        ]
+      },
+      "page0_q35": {
+        "option": 3,
+        "mark_type": "cross",
+        "coordinates": [
+          1033,
+          1486,
+          8
+        ]
+      },
+      "page1_q0": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          877,
+          281,
+          8
+        ]
+      },
+      "page1_q1": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          827,
+          412,
+          8
+        ]
+      },
+      "page1_q2": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          892,
+          412,
+          8
+        ]
+      },
+      "page1_q3": {
+        "option": 1,
+        "mark_type": "cross",
+        "coordinates": [
+          860,
+          521,
+          8
+        ]
+      },
+      "page1_q4": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          830,
+          652,
+          8
+        ]
+      }
+    }
+  },
+  {
+    "template": "3sub",
+    "file": "filled_3sub_001_realistic.pdf",
+    "strategy": "realistic",
+    "fill_percentage": 0.7403219249715807,
+    "num_filled": 88,
+    "filled_questions": {
+      "page0_q0": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          1087,
+          371,
+          10
+        ]
+      },
+      "page0_q2": {
+        "option": 2,
+        "mark_type": "half",
+        "coordinates": [
+          449,
+          373,
+          10
+        ]
+      },
+      "page0_q4": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          1048,
+          398,
+          10
+        ]
+      },
+      "page0_q5": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          224,
+          417,
+          10
+        ]
+      },
+      "page0_q6": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          256,
+          417,
+          10
+        ]
+      },
+      "page0_q9": {
+        "option": 1,
+        "mark_type": "dot",
+        "coordinates": [
+          320,
+          440,
+          9
+        ]
+      },
+      "page0_q11": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          289,
+          463,
+          10
+        ]
+      },
+      "page0_q12": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          449,
+          463,
+          10
+        ]
+      },
+      "page0_q13": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          159,
+          485,
+          10
+        ]
+      },
+      "page0_q14": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          256,
+          485,
+          10
+        ]
+      },
+      "page0_q17": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          191,
+          508,
+          10
+        ]
+      },
+      "page0_q18": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          352,
+          508,
+          10
+        ]
+      },
+      "page0_q23": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          449,
+          554,
+          10
+        ]
+      },
+      "page0_q25": {
+        "option": 0,
+        "mark_type": "half",
+        "coordinates": [
+          256,
+          577,
+          10
+        ]
+      },
+      "page0_q26": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          286,
+          741,
+          10
+        ]
+      },
+      "page0_q27": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          385,
+          741,
+          9
+        ]
+      },
+      "page0_q28": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          539,
+          741,
+          9
+        ]
+      },
+      "page0_q29": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          825,
+          741,
+          9
+        ]
+      },
+      "page0_q30": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          153,
+          765,
+          9
+        ]
+      },
+      "page0_q33": {
+        "option": 1,
+        "mark_type": "empty",
+        "coordinates": [
+          1024,
+          766,
+          10
+        ]
+      },
+      "page0_q34": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          153,
+          790,
+          9
+        ]
+      },
+      "page0_q35": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          319,
+          791,
+          9
+        ]
+      },
+      "page0_q36": {
+        "option": 3,
+        "mark_type": "concentric",
+        "coordinates": [
+          286,
+          815,
+          10
+        ]
+      },
+      "page0_q37": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          319,
+          815,
+          10
+        ]
+      },
+      "page0_q38": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          572,
+          815,
+          10
+        ]
+      },
+      "page0_q39": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          825,
+          815,
+          9
+        ]
+      },
+      "page0_q40": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          1024,
+          815,
+          10
+        ]
+      },
+      "page0_q41": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          187,
+          841,
+          10
+        ]
+      },
+      "page0_q43": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          572,
+          841,
+          10
+        ]
+      },
+      "page0_q44": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          639,
+          841,
+          10
+        ]
+      },
+      "page0_q45": {
+        "option": 3,
+        "mark_type": "sloppy",
+        "coordinates": [
+          1024,
+          841,
+          10
+        ]
+      },
+      "page0_q46": {
+        "option": 3,
+        "mark_type": "dot",
+        "coordinates": [
+          219,
+          866,
+          10
+        ]
+      },
+      "page0_q47": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          472,
+          866,
+          10
+        ]
+      },
+      "page0_q50": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          352,
+          891,
+          10
+        ]
+      },
+      "page0_q51": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          538,
+          891,
+          10
+        ]
+      },
+      "page0_q52": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          891,
+          891,
+          10
+        ]
+      },
+      "page0_q53": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          472,
+          915,
+          10
+        ]
+      },
+      "page0_q54": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          891,
+          915,
+          10
+        ]
+      },
+      "page0_q55": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          352,
+          940,
+          10
+        ]
+      },
+      "page0_q56": {
+        "option": 3,
+        "mark_type": "sloppy",
+        "coordinates": [
+          671,
+          940,
+          10
+        ]
+      },
+      "page0_q57": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          739,
+          940,
+          10
+        ]
+      },
+      "page0_q59": {
+        "option": 0,
+        "mark_type": "concentric",
+        "coordinates": [
+          187,
+          965,
+          10
+        ]
+      },
+      "page0_q61": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          639,
+          967,
+          10
+        ]
+      },
+      "page0_q62": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          119,
+          991,
+          9
+        ]
+      },
+      "page0_q63": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          505,
+          991,
+          9
+        ]
+      },
+      "page0_q64": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          705,
+          991,
+          10
+        ]
+      },
+      "page0_q65": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          925,
+          991,
+          10
+        ]
+      },
+      "page0_q68": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          572,
+          1016,
+          10
+        ]
+      },
+      "page0_q69": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          705,
+          1016,
+          9
+        ]
+      },
+      "page0_q71": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          472,
+          1041,
+          9
+        ]
+      },
+      "page0_q72": {
+        "option": 2,
+        "mark_type": "concentric",
+        "coordinates": [
+          572,
+          1041,
+          9
+        ]
+      },
+      "page0_q73": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          859,
+          1041,
+          10
+        ]
+      },
+      "page0_q74": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          891,
+          1041,
+          9
+        ]
+      },
+      "page0_q75": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          119,
+          1066,
+          9
+        ]
+      },
+      "page0_q76": {
+        "option": 1,
+        "mark_type": "dot",
+        "coordinates": [
+          320,
+          1066,
+          10
+        ]
+      },
+      "page0_q77": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          538,
+          1066,
+          10
+        ]
+      },
+      "page0_q80": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          1024,
+          1090,
+          10
+        ]
+      },
+      "page0_q81": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          386,
+          1091,
+          10
+        ]
+      },
+      "page0_q83": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          505,
+          1115,
+          9
+        ]
+      },
+      "page0_q86": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          991,
+          1115,
+          9
+        ]
+      },
+      "page0_q87": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          187,
+          1141,
+          10
+        ]
+      },
+      "page0_q89": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          639,
+          1141,
+          9
+        ]
+      },
+      "page0_q91": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          119,
+          1166,
+          9
+        ]
+      },
+      "page0_q94": {
+        "option": 1,
+        "mark_type": "concentric",
+        "coordinates": [
+          739,
+          1166,
+          10
+        ]
+      },
+      "page0_q96": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          153,
+          1191,
+          9
+        ]
+      },
+      "page0_q97": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          472,
+          1191,
+          10
+        ]
+      },
+      "page0_q98": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          538,
+          1191,
+          9
+        ]
+      },
+      "page0_q99": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          891,
+          1191,
+          9
+        ]
+      },
+      "page0_q100": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          219,
+          1215,
+          10
+        ]
+      },
+      "page0_q101": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          705,
+          1215,
+          9
+        ]
+      },
+      "page0_q102": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          352,
+          1216,
+          10
+        ]
+      },
+      "page0_q103": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          891,
+          1216,
+          10
+        ]
+      },
+      "page0_q106": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          901,
+          1331,
+          8
+        ]
+      },
+      "page0_q107": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          335,
+          1462,
+          8
+        ]
+      },
+      "page0_q109": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          901,
+          1484,
+          8
+        ]
+      },
+      "page1_q0": {
+        "option": 3,
+        "mark_type": "half",
+        "coordinates": [
+          226,
+          281,
+          8
+        ]
+      },
+      "page1_q1": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          275,
+          281,
+          8
+        ]
+      },
+      "page1_q3": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          305,
+          412,
+          8
+        ]
+      },
+      "page1_q4": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          688,
+          412,
+          8
+        ]
+      },
+      "page1_q5": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          135,
+          478,
+          8
+        ]
+      },
+      "page1_q6": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          151,
+          521,
+          8
+        ]
+      },
+      "page1_q8": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          901,
+          631,
+          8
+        ]
+      },
+      "page1_q9": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          151,
+          849,
+          8
+        ]
+      },
+      "page1_q10": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          275,
+          871,
+          8
+        ]
+      },
+      "page1_q11": {
+        "option": 2,
+        "mark_type": "filled",
+        "coordinates": [
+          305,
+          1001,
+          8
+        ]
+      },
+      "page1_q12": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          275,
+          1132,
+          8
+        ]
+      },
+      "page1_q13": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          335,
+          1132,
+          8
+        ]
+      },
+      "page1_q15": {
+        "option": 3,
+        "mark_type": "filled",
+        "coordinates": [
+          578,
+          1154,
+          8
+        ]
+      }
+    }
+  },
+  {
+    "template": "3sub",
+    "file": "filled_3sub_002_random.pdf",
+    "strategy": "random",
+    "fill_percentage": 0.7616474842093601,
+    "num_filled": 95,
+    "filled_questions": {
+      "page0_q0": {
+        "option": 2,
+        "mark_type": "half",
+        "coordinates": [
+          1087,
+          371,
+          10
+        ]
+      },
+      "page0_q1": {
+        "option": 0,
+        "mark_type": "cross",
+        "coordinates": [
+          191,
+          373,
+          10
+        ]
+      },
+      "page0_q2": {
+        "option": 3,
+        "mark_type": "half",
+        "coordinates": [
+          844,
+          385,
+          10
+        ]
+      },
+      "page0_q3": {
+        "option": 3,
+        "mark_type": "sloppy",
+        "coordinates": [
+          224,
+          395,
+          9
+        ]
+      },
+      "page0_q4": {
+        "option": 2,
+        "mark_type": "tick",
+        "coordinates": [
+          449,
+          395,
+          10
+        ]
+      },
+      "page0_q5": {
+        "option": 3,
+        "mark_type": "dot",
+        "coordinates": [
+          224,
+          417,
+          10
+        ]
+      },
+      "page0_q6": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          256,
+          417,
+          10
+        ]
+      },
+      "page0_q7": {
+        "option": 2,
+        "mark_type": "tick",
+        "coordinates": [
+          385,
+          418,
+          10
+        ]
+      },
+      "page0_q8": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          95,
+          440,
+          9
+        ]
+      },
+      "page0_q9": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          320,
+          440,
+          9
+        ]
+      },
+      "page0_q10": {
+        "option": 0,
+        "mark_type": "empty",
+        "coordinates": [
+          95,
+          463,
+          10
+        ]
+      },
+      "page0_q11": {
+        "option": 3,
+        "mark_type": "concentric",
+        "coordinates": [
+          385,
+          463,
+          10
+        ]
+      },
+      "page0_q13": {
+        "option": 3,
+        "mark_type": "dot",
+        "coordinates": [
+          159,
+          485,
+          10
+        ]
+      },
+      "page0_q14": {
+        "option": 1,
+        "mark_type": "empty",
+        "coordinates": [
+          224,
+          485,
+          10
+        ]
+      },
+      "page0_q15": {
+        "option": 0,
+        "mark_type": "empty",
+        "coordinates": [
+          321,
+          485,
+          10
+        ]
+      },
+      "page0_q17": {
+        "option": 3,
+        "mark_type": "empty",
+        "coordinates": [
+          287,
+          508,
+          9
+        ]
+      },
+      "page0_q18": {
+        "option": 0,
+        "mark_type": "empty",
+        "coordinates": [
+          352,
+          508,
+          10
+        ]
+      },
+      "page0_q19": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          127,
+          531,
+          9
+        ]
+      },
+      "page0_q20": {
+        "option": 2,
+        "mark_type": "concentric",
+        "coordinates": [
+          321,
+          531,
+          9
+        ]
+      },
+      "page0_q21": {
+        "option": 3,
+        "mark_type": "tick",
+        "coordinates": [
+          601,
+          531,
+          10
+        ]
+      },
+      "page0_q22": {
+        "option": 1,
+        "mark_type": "cross",
+        "coordinates": [
+          159,
+          554,
+          10
+        ]
+      },
+      "page0_q23": {
+        "option": 3,
+        "mark_type": "dot",
+        "coordinates": [
+          449,
+          554,
+          10
+        ]
+      },
+      "page0_q24": {
+        "option": 3,
+        "mark_type": "cross",
+        "coordinates": [
+          224,
+          577,
+          9
+        ]
+      },
+      "page0_q25": {
+        "option": 2,
+        "mark_type": "half",
+        "coordinates": [
+          320,
+          577,
+          9
+        ]
+      },
+      "page0_q29": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          857,
+          741,
+          9
+        ]
+      },
+      "page0_q31": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          472,
+          766,
+          10
+        ]
+      },
+      "page0_q32": {
+        "option": 2,
+        "mark_type": "half",
+        "coordinates": [
+          825,
+          766,
+          10
+        ]
+      },
+      "page0_q36": {
+        "option": 1,
+        "mark_type": "dot",
+        "coordinates": [
+          187,
+          815,
+          10
+        ]
+      },
+      "page0_q38": {
+        "option": 2,
+        "mark_type": "concentric",
+        "coordinates": [
+          572,
+          815,
+          10
+        ]
+      },
+      "page0_q40": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          925,
+          815,
+          10
+        ]
+      },
+      "page0_q42": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          286,
+          841,
+          10
+        ]
+      },
+      "page0_q43": {
+        "option": 2,
+        "mark_type": "concentric",
+        "coordinates": [
+          538,
+          841,
+          9
+        ]
+      },
+      "page0_q48": {
+        "option": 2,
+        "mark_type": "half",
+        "coordinates": [
+          671,
+          866,
+          10
+        ]
+      },
+      "page0_q49": {
+        "option": 3,
+        "mark_type": "dot",
+        "coordinates": [
+          925,
+          866,
+          10
+        ]
+      },
+      "page0_q50": {
+        "option": 3,
+        "mark_type": "tick",
+        "coordinates": [
+          352,
+          891,
+          10
+        ]
+      },
+      "page0_q53": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          153,
+          915,
+          10
+        ]
+      },
+      "page0_q55": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          187,
+          940,
+          10
+        ]
+      },
+      "page0_q56": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          472,
+          940,
+          10
+        ]
+      },
+      "page0_q57": {
+        "option": 3,
+        "mark_type": "sloppy",
+        "coordinates": [
+          925,
+          940,
+          10
+        ]
+      },
+      "page0_q59": {
+        "option": 3,
+        "mark_type": "empty",
+        "coordinates": [
+          386,
+          965,
+          10
+        ]
+      },
+      "page0_q60": {
+        "option": 2,
+        "mark_type": "half",
+        "coordinates": [
+          572,
+          965,
+          10
+        ]
+      },
+      "page0_q61": {
+        "option": 2,
+        "mark_type": "sloppy",
+        "coordinates": [
+          1090,
+          965,
+          10
+        ]
+      },
+      "page0_q63": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          352,
+          991,
+          10
+        ]
+      },
+      "page0_q64": {
+        "option": 1,
+        "mark_type": "tick",
+        "coordinates": [
+          572,
+          991,
+          10
+        ]
+      },
+      "page0_q65": {
+        "option": 3,
+        "mark_type": "tick",
+        "coordinates": [
+          1024,
+          991,
+          10
+        ]
+      },
+      "page0_q66": {
+        "option": 2,
+        "mark_type": "tick",
+        "coordinates": [
+          187,
+          1016,
+          9
+        ]
+      },
+      "page0_q68": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          538,
+          1016,
+          10
+        ]
+      },
+      "page0_q69": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          739,
+          1016,
+          10
+        ]
+      },
+      "page0_q70": {
+        "option": 3,
+        "mark_type": "empty",
+        "coordinates": [
+          219,
+          1041,
+          10
+        ]
+      },
+      "page0_q71": {
+        "option": 3,
+        "mark_type": "tick",
+        "coordinates": [
+          472,
+          1041,
+          9
+        ]
+      },
+      "page0_q72": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          538,
+          1041,
+          10
+        ]
+      },
+      "page0_q75": {
+        "option": 3,
+        "mark_type": "concentric",
+        "coordinates": [
+          187,
+          1066,
+          10
+        ]
+      },
+      "page0_q77": {
+        "option": 3,
+        "mark_type": "sloppy",
+        "coordinates": [
+          571,
+          1066,
+          9
+        ]
+      },
+      "page0_q78": {
+        "option": 1,
+        "mark_type": "half",
+        "coordinates": [
+          825,
+          1066,
+          10
+        ]
+      },
+      "page0_q79": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          153,
+          1090,
+          10
+        ]
+      },
+      "page0_q80": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          572,
+          1090,
+          10
+        ]
+      },
+      "page0_q81": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          386,
+          1091,
+          10
+        ]
+      },
+      "page0_q82": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          119,
+          1115,
+          9
+        ]
+      },
+      "page0_q83": {
+        "option": 3,
+        "mark_type": "half",
+        "coordinates": [
+          538,
+          1115,
+          10
+        ]
+      },
+      "page0_q84": {
+        "option": 3,
+        "mark_type": "dot",
+        "coordinates": [
+          739,
+          1115,
+          9
+        ]
+      },
+      "page0_q85": {
+        "option": 0,
+        "mark_type": "cross",
+        "coordinates": [
+          825,
+          1115,
+          9
+        ]
+      },
+      "page0_q86": {
+        "option": 1,
+        "mark_type": "cross",
+        "coordinates": [
+          1024,
+          1115,
+          10
+        ]
+      },
+      "page0_q87": {
+        "option": 3,
+        "mark_type": "empty",
+        "coordinates": [
+          286,
+          1141,
+          10
+        ]
+      },
+      "page0_q88": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          352,
+          1141,
+          9
+        ]
+      },
+      "page0_q90": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          891,
+          1141,
+          9
+        ]
+      },
+      "page0_q91": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          119,
+          1166,
+          9
+        ]
+      },
+      "page0_q92": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          472,
+          1166,
+          9
+        ]
+      },
+      "page0_q93": {
+        "option": 3,
+        "mark_type": "empty",
+        "coordinates": [
+          671,
+          1166,
+          10
+        ]
+      },
+      "page0_q96": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          153,
+          1191,
+          9
+        ]
+      },
+      "page0_q97": {
+        "option": 0,
+        "mark_type": "dot",
+        "coordinates": [
+          352,
+          1191,
+          9
+        ]
+      },
+      "page0_q98": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          538,
+          1191,
+          9
+        ]
+      },
+      "page0_q99": {
+        "option": 1,
+        "mark_type": "empty",
+        "coordinates": [
+          857,
+          1191,
+          9
+        ]
+      },
+      "page0_q100": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          538,
+          1215,
+          10
+        ]
+      },
+      "page0_q101": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          705,
+          1215,
+          9
+        ]
+      },
+      "page0_q102": {
+        "option": 1,
+        "mark_type": "half",
+        "coordinates": [
+          352,
+          1216,
+          10
+        ]
+      },
+      "page0_q104": {
+        "option": 0,
+        "mark_type": "sloppy",
+        "coordinates": [
+          165,
+          1331,
+          8
+        ]
+      },
+      "page0_q105": {
+        "option": 0,
+        "mark_type": "empty",
+        "coordinates": [
+          335,
+          1331,
+          8
+        ]
+      },
+      "page0_q106": {
+        "option": 2,
+        "mark_type": "concentric",
+        "coordinates": [
+          995,
+          1331,
+          8
+        ]
+      },
+      "page0_q107": {
+        "option": 2,
+        "mark_type": "half",
+        "coordinates": [
+          305,
+          1462,
+          8
+        ]
+      },
+      "page0_q108": {
+        "option": 3,
+        "mark_type": "sloppy",
+        "coordinates": [
+          901,
+          1462,
+          8
+        ]
+      },
+      "page0_q109": {
+        "option": 3,
+        "mark_type": "dot",
+        "coordinates": [
+          995,
+          1484,
+          8
+        ]
+      },
+      "page1_q0": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          181,
+          281,
+          8
+        ]
+      },
+      "page1_q1": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          305,
+          281,
+          8
+        ]
+      },
+      "page1_q2": {
+        "option": 0,
+        "mark_type": "empty",
+        "coordinates": [
+          643,
+          281,
+          8
+        ]
+      },
+      "page1_q3": {
+        "option": 2,
+        "mark_type": "cross",
+        "coordinates": [
+          305,
+          412,
+          8
+        ]
+      },
+      "page1_q4": {
+        "option": 1,
+        "mark_type": "concentric",
+        "coordinates": [
+          578,
+          412,
+          8
+        ]
+      },
+      "page1_q6": {
+        "option": 1,
+        "mark_type": "dot",
+        "coordinates": [
+          181,
+          521,
+          8
+        ]
+      },
+      "page1_q8": {
+        "option": 0,
+        "mark_type": "filled",
+        "coordinates": [
+          643,
+          631,
+          8
+        ]
+      },
+      "page1_q9": {
+        "option": 2,
+        "mark_type": "dot",
+        "coordinates": [
+          578,
+          849,
+          8
+        ]
+      },
+      "page1_q10": {
+        "option": 2,
+        "mark_type": "empty",
+        "coordinates": [
+          305,
+          871,
+          8
+        ]
+      },
+      "page1_q11": {
+        "option": 1,
+        "mark_type": "sloppy",
+        "coordinates": [
+          181,
+          1001,
+          8
+        ]
+      },
+      "page1_q12": {
+        "option": 1,
+        "mark_type": "filled",
+        "coordinates": [
+          181,
+          1132,
+          8
+        ]
+      },
+      "page1_q14": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          643,
+          1132,
+          8
+        ]
+      },
+      "page1_q15": {
+        "option": 0,
+        "mark_type": "cross",
+        "coordinates": [
+          275,
+          1154,
+          8
+        ]
+      },
+      "page1_q16": {
+        "option": 0,
+        "mark_type": "tick",
+        "coordinates": [
+          643,
+          1154,
+          8
+        ]
+      }
+    }
+  }
+]
